@@ -1,4 +1,8 @@
-🧾 QR Code Component — Front-end Mentor
+<p align="center">
+  <img src="preview.jpg" alt="QR Code Component" width="300">
+</p>
+
+# QR Code Component
 
 Este repositório contém a solução do desafio QR Code Component do Front-end Mentor. O objetivo é recriar um componente de cartão com um código QR usando apenas HTML & CSS, seguindo o design fornecido. 
 Frontend Mentor
