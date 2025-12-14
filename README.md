@@ -56,3 +56,9 @@ Contém a estrutura do cartão com a imagem e textos.
 🎨 style.css
 
 Responsável pela estilização da página — incluindo centralização com Flexbox, cores, tipografia e espaçamentos.
+
+## 📷 Preview
+
+<p align="center">
+  <img src="assets/preview.png" alt="QR Code Component" width="250">
+</p>
