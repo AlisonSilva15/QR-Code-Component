@@ -60,5 +60,6 @@ Responsável pela estilização da página — incluindo centralização com Fle
 ## 📷 Preview
 
 <p align="center">
-  <img src="assets/preview.png" alt="QR Code Component" width="250">
+  <img src="preview.jpg" alt="QR Code Component" width="250">
 </p>
+
