@@ -23,9 +23,8 @@ Frontend Mentor
 
 O projeto foi criado com:
 
-Tecnologia	Versão
-HTML	5
-CSS	3
+HTML	
+CSS	
 
 📌 Não foram usadas bibliotecas ou frameworks adicionais — apenas HTML semântico e CSS puro. 
 Frontend Mentor
